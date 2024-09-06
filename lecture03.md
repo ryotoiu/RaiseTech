@@ -8,10 +8,10 @@
 
 ## エビデンス画像
 ### バージョン確認(rubyやbundlre等のバージョンについて確認を行った。)
-![代替テキスト](./images/SSversion.png)
+![代替テキスト](./SSversion.png)
 ### MySQLのインストールと起動確認（MySQLのインストールを実施し、正常な起動を確認した。）
-![代替テキスト](./images/SSMySQL.png)
+![代替テキスト](./SSMySQL.png)
 ### アプリケーションの起動確認（Pumaの起動を確認した。）
-![代替テキスト](./images/SSKserver.png)
+![代替テキスト](./SSKserver.png)
 ### ブラウザでアクセスを行った（ブラウザでアプリケーションにアクセスした。）
-![代替テキスト](./images/SSapp.png)
+![代替テキスト](./SSapp.png)
