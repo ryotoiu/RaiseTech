@@ -2,10 +2,9 @@
 
 ### 新しいVPCの作成
 + AWS上に新しくVPCを作成した
-![VPC作成テキスト]（./VPC作成.png)
+![VPC作成](./VPC作成.png)
 ### EC2の構築
-+ raisetechインスタンスを構築した
-![EC2構築](./EC2構築.png)
++ raisetechインスタンスを構築した![EC2構築](./EC2構築.png)
 ### DSの構築
 + databece2を構築した
 ![RDS構築](./DS構築.png)
