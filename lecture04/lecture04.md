@@ -2,13 +2,10 @@
 ## 新しい画像の追加
 ### 新しいVPCの作成
 - VPCを新しく構築、その詳細画像
-![新VPC作成](RaiseTech/lecture04/VPC構築2.png)
+![新VPC作成](VPC構築2.png)
 ### 新しいEC2の構築
-- EC2を新しく構築、その詳細画像
-![新EC2構築](RaiseTech/lecture04/新EC2.png)
+![新EC2構築](新EC2.png)
 ### DBの構築
-- DBを新しく構築、その詳細画像
-![RDS構築](RaiseTech/lecture04/RDS.png)
-###　EC2→RDSが実際に接続されているかの確認
-- 接続確認の画像
-![EC2からRDS接続確認](RaiseTech/lecture04/接続確認2.png)
+![RDS構築](RDS.png)
+### EC2→RDSが実際に接続されているかの確認
+![EC2からRDS接続確認](接続確認2.png)
