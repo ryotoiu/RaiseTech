@@ -22,11 +22,11 @@
 
 ## エビデンス画像
 ### バージョン確認(rubyやbundlre等のバージョンについて確認を行った。)
-![SSバージョン確認](./SSversion2.png)
+![SSバージョン確認](SSversion2.png)
 ### MySQLのインストールと起動確認（MySQLのインストールを実施し、正常な起動を確認した。）
-![SSMySQLのインストール](./SSMySQL.png)
+![SSMySQLのインストール](SSMySQL.png)
 ### アプリケーションの起動確認（Pumaの起動を確認した。）
-![SSAPの起動](./SSKserver.png)
+![SSAPの起動](SSKserver.png)
 ### ブラウザでアクセスを行った（ブラウザでアプリケーションにアクセスした。）
-![ブラウザでのアクセス](./SSapp.png)
+![ブラウザでのアクセス](SSapp.png)
 
